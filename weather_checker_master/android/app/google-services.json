@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "832094988653",
+    "project_id": "weathercheckermaster",
+    "storage_bucket": "weathercheckermaster.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832094988653:android:8536c536edcf0b0a311264",
+        "android_client_info": {
+          "package_name": "com.example.weather_checker_master"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832094988653-sqhuv434icdla87habrj7ma2ld1etvim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAcEuNPvUj88gnHiSgFvk9muqgmX3KO9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832094988653-sqhuv434icdla87habrj7ma2ld1etvim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
